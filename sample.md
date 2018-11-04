@@ -1,4 +1,4 @@
-You can use Git and GitHub for version control!
+You can use Git and GitHub for version control.
 
 Git manages your files locally!
 
